@@ -10,7 +10,7 @@ https://github.com/eb-terry-tyz/notion-crm-kit-lead-20260615/releases/tag/free-c
 
 ## Paid Kit
 
-Get the paid kit on itch.io:
+Get the paid kit on itch.io. The itch page now includes a small free-lite preview file, and the full CSV import kit plus setup guide remain behind the paid checkout:
 
 https://soloco-games.itch.io/notion-business-os-crm-kit/purchase
 
