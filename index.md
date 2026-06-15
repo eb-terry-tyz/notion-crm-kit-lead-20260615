@@ -19,6 +19,7 @@ Current public price observed on itch.io: $19.
 ## SEO Guides
 
 - [Notion CRM CSV Import Gumroad Alternative Starter Template](./notion-crm-csv-import-gumroad-alternative-20260615-step1/) - a buyer-intent page for people comparing Notion CRM, CSV import, a $19 starter template, and a Gumroad alternative.
+- [Notion CRM CSV Import Guide for Small Business Operators](./notion-crm-csv-import-guide-2026-06-15-traffic-agent/) - a practical guide for importing CSV contact, deal, and project data into a Notion CRM and business OS.
 
 ## Fit
 
