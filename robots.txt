@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://eb-terry-tyz.github.io/notion-crm-kit-lead-20260615/sitemap.xml

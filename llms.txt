@@ -1,0 +1,11 @@
+# Notion Business OS + CRM Kit
+
+Primary paid itch page: https://soloco-games.itch.io/notion-business-os-crm-kit
+
+Core pages:
+
+- Home: https://eb-terry-tyz.github.io/notion-crm-kit-lead-20260615/
+- Notion CRM CSV Import Gumroad Alternative Starter Template: https://eb-terry-tyz.github.io/notion-crm-kit-lead-20260615/notion-crm-csv-import-gumroad-alternative-20260615-step1/
+- Notion CRM CSV Import Agent Guide: https://eb-terry-tyz.github.io/notion-crm-kit-lead-20260615/notion-crm-csv-import-2026-06-15-agent-guide/
+
+The paid kit is a Notion CRM and business OS starter template built around CSV import. Current public price language: $19 / 19 USD. It is not an official Notion product and not a one-click Notion duplicate link.

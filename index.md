@@ -16,6 +16,10 @@ https://soloco-games.itch.io/notion-business-os-crm-kit/purchase
 
 Current public price observed on itch.io: $19.
 
+## SEO Guides
+
+- [Notion CRM CSV Import Gumroad Alternative Starter Template](./notion-crm-csv-import-gumroad-alternative-20260615-step1/) - a buyer-intent page for people comparing Notion CRM, CSV import, a $19 starter template, and a Gumroad alternative.
+
 ## Fit
 
 - Solo operators and small agencies managing leads, clients, projects, tasks, meetings, and content planning.

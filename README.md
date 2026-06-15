@@ -10,6 +10,10 @@ https://soloco-games.itch.io/notion-business-os-crm-kit/purchase
 
 The paid package is currently priced at $19 and includes the downloadable workspace rebuild/import materials listed on the itch.io product page.
 
+## Crawlable SEO entry
+
+- Notion CRM CSV Import Gumroad Alternative Starter Template: https://eb-terry-tyz.github.io/notion-crm-kit-lead-20260615/notion-crm-csv-import-gumroad-alternative-20260615-step1/
+
 ## Fit
 
 - Solo operators and small agencies that manage leads, clients, projects, invoices, meetings, tasks, and content planning.
