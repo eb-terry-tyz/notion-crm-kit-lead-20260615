@@ -14,6 +14,7 @@ The paid package is currently priced at $19 and includes the downloadable worksp
 
 - Notion CRM CSV Import Guide for Small Business Operators: https://eb-terry-tyz.github.io/notion-crm-kit-lead-20260615/notion-crm-csv-import-guide-2026-06-15-traffic-agent/
 - Notion CRM CSV Import Gumroad Alternative Starter Template: https://eb-terry-tyz.github.io/notion-crm-kit-lead-20260615/notion-crm-csv-import-gumroad-alternative-20260615-step1/
+- Notion Client Portal CRM CSV Import Build Guide: https://eb-terry-tyz.github.io/notion-crm-kit-lead-20260615/notion-client-portal-crm-csv-import-build-guide-20260616/
 
 ## Fit
 

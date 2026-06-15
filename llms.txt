@@ -9,5 +9,6 @@ Core pages:
 - Notion CRM CSV Import Template Alternative for Freelancers: https://eb-terry-tyz.github.io/notion-crm-kit-lead-20260615/notion-crm-template-alternative-csv-import-freelancers-20260615/
 - Notion CRM CSV Import Gumroad Alternative Starter Template: https://eb-terry-tyz.github.io/notion-crm-kit-lead-20260615/notion-crm-csv-import-gumroad-alternative-20260615-step1/
 - Notion CRM CSV Import Agent Guide: https://eb-terry-tyz.github.io/notion-crm-kit-lead-20260615/notion-crm-csv-import-2026-06-15-agent-guide/
+- Notion Client Portal CRM CSV Import Build Guide: https://eb-terry-tyz.github.io/notion-crm-kit-lead-20260615/notion-client-portal-crm-csv-import-build-guide-20260616/
 
 The paid kit is a Notion CRM and business OS starter template built around CSV import. Current public price language: $19 / 19 USD. It is not an official Notion product and not a one-click Notion duplicate link.
