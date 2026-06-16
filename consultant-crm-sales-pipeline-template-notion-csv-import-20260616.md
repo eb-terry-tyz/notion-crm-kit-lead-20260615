@@ -1,3 +1,9 @@
+---
+title: Consultant CRM Sales Pipeline Template for Notion CSV Import
+description: A buyer-intent guide for consultants moving sales pipeline spreadsheet records into a Notion CRM through CSV import, not a one-click duplicate.
+permalink: /consultant-crm-sales-pipeline-template-notion-csv-import-20260616/
+---
+
 # Consultant CRM Sales Pipeline Template for Notion CSV Import
 
 SEO_MARKER: SEO_CYCLE_20260616_CONSULTANT_CRM_SALES_PIPELINE_CSV_IMPORT
