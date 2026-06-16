@@ -11,5 +11,6 @@ Core pages:
 - Notion CRM CSV Import Agent Guide: https://eb-terry-tyz.github.io/notion-crm-kit-lead-20260615/notion-crm-csv-import-2026-06-15-agent-guide/
 - Notion Client Portal CRM CSV Import Build Guide: https://eb-terry-tyz.github.io/notion-crm-kit-lead-20260615/notion-client-portal-crm-csv-import-build-guide-20260616/
 - Airtable To Notion CRM CSV Import Kit: https://eb-terry-tyz.github.io/notion-crm-kit-lead-20260615/airtable-to-notion-crm-csv-import-kit-20260616/
+- Consultant CRM Sales Pipeline Template for Notion CSV Import: https://eb-terry-tyz.github.io/notion-crm-kit-lead-20260615/consultant-crm-sales-pipeline-template-notion-csv-import-20260616/
 
 The paid kit is a Notion CRM and business OS starter template built around CSV import. Current public price language: $19 / 19 USD. It is not an official Notion product and not a one-click Notion duplicate link.

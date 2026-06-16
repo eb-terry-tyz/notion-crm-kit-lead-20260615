@@ -23,6 +23,7 @@ Current public price observed on itch.io: $19.
 - [Notion CRM CSV Import Gumroad Alternative Starter Template](./notion-crm-csv-import-gumroad-alternative-20260615-step1/) - a buyer-intent page for people comparing Notion CRM, CSV import, a $19 starter template, and a Gumroad alternative.
 - [Notion CRM CSV Import Guide for Small Business Operators](./notion-crm-csv-import-guide-2026-06-15-traffic-agent/) - a practical guide for importing CSV contact, deal, and project data into a Notion CRM and business OS.
 - [Airtable To Notion CRM CSV Import Kit](./airtable-to-notion-crm-csv-import-kit-20260616/) - a long-tail migration page for buyers exporting Airtable CRM tables and rebuilding a Notion business OS through CSV import.
+- [Consultant CRM Sales Pipeline Template for Notion CSV Import](./consultant-crm-sales-pipeline-template-notion-csv-import-20260616/) - a buyer-intent page for consultants moving spreadsheet leads and sales pipeline records into a Notion CRM through CSV import.
 
 ## Fit
 
